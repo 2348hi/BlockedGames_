@@ -1,3 +1,3 @@
 # Blocked Games
 
-## How To Use
+### How To Use
